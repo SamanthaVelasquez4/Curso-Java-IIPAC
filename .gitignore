@@ -1,0 +1,29 @@
+# Archivos de clase
+*.class
+
+# Carpetas de compilación
+/out/
+/bin/
+/target/
+
+# Configuración de IntelliJ IDEA
+.idea/
+*.iml
+
+# Configuración de Eclipse o NetBeans (si aplica)
+*.project
+*.classpath
+*.settings/
+nbproject/
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de log o caché
+*.log
+
+# Archivos temporales de usuario
+*.swp
+*.bak
+*.tmp
