@@ -11,7 +11,6 @@ public class Main {
         * lineas
         * */
 
-
         //Tipos de datos primitivos
         // TipoDato NombreVarible
         int numeroEntero; //declaración de una variable
